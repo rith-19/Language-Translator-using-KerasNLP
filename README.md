@@ -6,7 +6,7 @@ Language Translator using KerasNLP is a Python-based project developed to facili
 
 - Translate text from English to regional languages
 
-- Simple and intuitive user interface
+- Simple 
 
 - High accuracy and efficiency
 
